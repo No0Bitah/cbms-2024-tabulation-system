@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# data files
+data/2024/rcdf/*
+data/2024/RSA Keys/*
+
