@@ -1,0 +1,11 @@
+cbms_round: "2024"
+area_code: "1001319"
+area_name: "Sumilao, Bukidnon"
+input_data_type: "rcdf"
+aggregation:
+  level: "barangay"
+  label: "Barangay"
+path:
+  input_data: ~
+  output: "output"
+  script: "scripts/2024/official/main.R"
